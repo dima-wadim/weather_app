@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Weather App</title>
+  </head>
+  <body>
+    <h1>Weather App</h1>
+    <form action="{{ url_for('weather') }}" method="post">
+      <input type="text" name="city" placeholder="Enter city name">
+      <input type="submit" value="Get Weather">
+    </form>
+
+    {% for user in users %}
+      <p>{{ user.city }}</p>
+    {% endfor %}
+  </body>
+</html>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv/Include" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/Django-5.0.7.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/asgiref" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/asgiref-3.8.1.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/django" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/pip-24.1.2.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/pip/_vendor/pyproject_hooks" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/pip/_vendor/truststore" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/sqlparse" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/sqlparse-0.5.1.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/tzdata" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/tzdata-2024.1.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/Flask_Migrate-4.0.7.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/Mako-1.3.5.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/MarkupSafe-2.1.5.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/PIL" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/SQLAlchemy-2.0.31.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/alembic" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/alembic-1.13.2.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/blinker" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/blinker-1.8.2.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/certifi" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/certifi-2024.7.4.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/charset_normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/charset_normalizer-3.3.2.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/click" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/click-8.1.7.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/colorama" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/colorama-0.4.6.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/dotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/flask" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/flask-3.0.3.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/flask_migrate" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/flask_sqlalchemy" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/flask_sqlalchemy-3.1.1.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/flask_wtf" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/flask_wtf-1.2.1.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/greenlet" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/greenlet-3.0.3.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/idna" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/idna-3.7.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/itsdangerous" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/itsdangerous-2.2.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/jinja2" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/jinja2-3.1.4.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/mako" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/markupsafe" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/pillow-10.4.0.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/psycopg2" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/psycopg2-2.9.9.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/psycopg2_binary-2.9.9.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/python_dotenv-1.0.1.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/requests" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/requests-2.32.3.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/sqlalchemy" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/typing_extensions-4.12.2.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/urllib3" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/urllib3-2.2.2.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/werkzeug" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/werkzeug-3.0.3.dist-info" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/wtforms" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/wtforms-3.1.2.dist-info" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.11" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
